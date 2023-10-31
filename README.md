@@ -1,6 +1,6 @@
 # Dissecting Speech Quality: Investigating the Interplay between Overall Quality and Dimensional Perceptions
 
-# Project Plan: Speech Quality Assessment Research
+Project Plan
 
 ## Phase 1: Data Preparation and Literature Review (Jan 1 - Jan 10, 2024)
 | Task                                   | Deadline        |
